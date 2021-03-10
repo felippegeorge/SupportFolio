@@ -9,7 +9,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: 'Saad Pasta',
+  username: 'Felippe George Haeitmann',
   title: "Hi all, I'm Felippe",
   subTitle: emoji(
     'A passionate Software Consultant 🚀 having an experience of supporting SAP for some of the best S&P 500 companies.'
@@ -198,7 +198,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: 'saadpasta', // Change to your github username to view your profile in Contact Section.
+  githubUserName: 'felippegeorge', // Change to your github username to view your profile in Contact Section.
   showGithubProfile: 'true', // Set true or false to show Contact profile using Github, defaults to true
   display: true, // Set false to hide this section, defaults to true
 };
